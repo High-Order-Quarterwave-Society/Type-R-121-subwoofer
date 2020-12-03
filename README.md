@@ -12,8 +12,8 @@ Other designs using the Paraflex principles where made for midrange and infrason
 
 *The C-2E-121 design.*
 *3D design by Ty Cention, KaiRonex)*
-![Original Type C-2E-211 design](https://github.com/High-Order-Quarterwave-Society/TC2E-121/blob/main/TC2E-121-3D-001.jpg)
-![Original Type C-2E-121 design](https://github.com/High-Order-Quarterwave-Society/TC2E-121/blob/main/TC2E-121-3D-002.jpg)
+![Original Type C-2E-211 design](https://github.com/High-Order-Quarterwave-Society/TC2E-121-subwoofer/blob/main/Design/TC2E0121-3d-001.jpg)
+![Original Type C-2E-121 design](https://github.com/High-Order-Quarterwave-Society/TC2E-121-subwoofer/blob/main/Design/TC2E0121-design-001.jpg)
 
  #### Honorable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQWS:
 Ty Cention, Josh Mullins, Philip van Heijningen, Patrick Sander, Val Boodram, Justin Crescendo, Angel Garabitos Romero, Jason Geban, Andre Schrock, Casey Raynes, Conor Noakes, Nicolai Grymer and many more.
