@@ -12,11 +12,13 @@ The Type R-121 shall have a dimension of 1200 x 600 x 800 mm (wxhxd) and its tun
 Other designs using the Paraflex principles where made for subwoofer and midrange frequency ranges. There are always new concepts and designs in progress on the [HOQWS facebook page](https://www.facebook.com/groups/bassaz/). 
 
 *3D design and documentation by Ty Cention, KaiRonex)*
+
 *The Type-R-121-MK1 design.*
 ![Type-R-121-MK1 design](https://github.com/High-Order-Quarterwave-Society/Type-R-121-subwoofer/blob/main/Design/PF-Type-R-121-MK1-cutout.jpg)
+
 *The Type-R-121 design.*
 ![Original Type Type-R-121 design](https://github.com/High-Order-Quarterwave-Society/Type-R-121-subwoofer/blob/main/Design/Paraflex-type-R-18s-21ntlw5000.png)
-![Original Type Type-R-121 design](https://github.com/High-Order-Quarterwave-Society/Type-R-121-subwoofer/blob/main/Design/type-r-dimensions.png)
+
 
 #### Honorable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQWS:
 Ty Cention, Josh Mullins, Philip van Heijningen, Patrick Sander, Val Boodram, Justin Crescendo, Angel Garabitos Romero, Mark Tomlin, Jason Geban, Andre Schrock, Casey Raynes, Conor Noakes, Nicolai Grymer, Clement Noel, Lewis Cafaro, Ben Wells and many many more.
