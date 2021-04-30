@@ -14,6 +14,7 @@ Other designs using the Paraflex principles where made for subwoofer and midrang
 *3D design and documentation by Ty Cention, KaiRonex)*
 
 *The Type-R-121-MK1 design.*
+
 ![Type-R-121-MK1 design](https://github.com/High-Order-Quarterwave-Society/Type-R-121-subwoofer/blob/main/Design/PF-Type-R-121-MK1-cutout.jpg)
 
 *The Type-R-121 design.*
