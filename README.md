@@ -8,6 +8,7 @@ The subwoofer uses a low and high tuned resonator making the design very efficie
 
 ## Updates:
 The latest MK1 revision include improvements on the High Tuned Resonator which improves response and total bandwidth and phase.
+Licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International CC BY-NC-ND 4.0 (For more info See the Paraflex License PDF)
 
 ## Working range
 The Type R-121 shall have a dimension of 1200 x 600 x 800 mm (wxhxd) and its tuning is around 31Hz (Fb). It's recomended working range shall be from 30hz up to 130hz. We encourage the user to adjust the frequency range and filter based on their application.
