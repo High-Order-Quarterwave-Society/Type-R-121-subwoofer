@@ -2,7 +2,7 @@
 The Type R-121-MK! Paraflex subwoofer was originaly designed by Matthew Morgan J. member of the **Higher Order Quarterwave Society** (HOQWS) which was started in 2013 by Matthew Morgan J, Dustin Morgan (Flex Tech Designs) and J. Vansickle (Paragon Concepts) 
 
 ## About Paraflex
-The Type R-121 subwoofer is designed for 21" drivers with a High BL and a strong cone. This design is optimised for the 18Sound 21NSLW5000 21" 4-Ohm driver, but other drivers may also be used, for example the 18Sound 21NLW9601 or B&C 21SW152 etc. There is also a Type-R design for 18" drivers available. The MK1 is the latest version of this design and has added improvements for the HTR and a flatter overal response. See measurement graphs for more information.
+The Type R-121 subwoofer is designed for 21" drivers with a High BL and a strong cone. This design is optimised for the HOQS 21" Ferrite F216C and N216C drivers,  18Sound 21NSLW5000 21" 4-Ohm driver, but other drivers may also be used, for example the 18Sound 21NLW9601 or B&C 21SW152 etc. There is also a Type-R design for 18" drivers available. The MK1 is the latest version of this design and has added improvements for the HTR and a flatter overal response. See measurement graphs for more information.
 
 The subwoofer uses a low and high tuned resonator making the design very efficient in it's bandwidth, which was named **Paraflex** for easy naming. Many prototypes and design revisions have been made by members of the HOQWS, continualy improving the design of the cabinet and its different versions. 
 
